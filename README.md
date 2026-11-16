@@ -208,3 +208,10 @@ Integration tests call `list_entities`, `describe_entity`, `query_entity`, `get_
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Built by BiAiVision
+
+priority-connect is maintained by [BiAiVision](https://biaivision.com), which builds production AI systems for Israeli businesses on top of Priority ERP: AI assistants, sales and budget forecasting, and OCR for accounting documents.
+
+- Hebrew setup guide: [How to connect Claude or ChatGPT to Priority ERP via MCP](https://biaivision.com/blog/connect-claude-priority/)
+- [Priority AI by BiAiVision](https://biaivision.com/priority-ai/)
